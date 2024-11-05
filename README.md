@@ -34,7 +34,7 @@ The **Covid19 Global Forecasting** project utilizes machine learning techniques,
 ## Setup and Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Covid19GlobalForecasting.git
+    git clone https://github.com/shreya2430/Covid19GlobalForecasting.git
     cd Covid19GlobalForecasting
     ```
 
